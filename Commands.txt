@@ -1,0 +1,17 @@
+ SYMBOLS
+  |=OR
+  &=AND
+  >>=IMPLIES
+  ~=NEGATIONCOMMANNDS AND SYMBOLS
+ SYMBOLS
+  |=OR
+  &=AND
+  >>=IMPLIES
+  ~=NEGATION
+  
+  COMMANDS
+  f.print_truth_table()
+  f.is_tautology()
+  ##chekcing if two experession are logically equivalent
+  f1=f2
+  
